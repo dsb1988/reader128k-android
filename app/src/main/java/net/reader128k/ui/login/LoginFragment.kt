@@ -1,4 +1,4 @@
-package net.reader128k.login
+package net.reader128k.ui.login
 
 import android.os.Bundle
 import android.view.LayoutInflater

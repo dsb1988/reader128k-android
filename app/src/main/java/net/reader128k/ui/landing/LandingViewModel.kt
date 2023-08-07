@@ -1,4 +1,4 @@
-package net.reader128k.landing
+package net.reader128k.ui.landing
 
 import androidx.lifecycle.ViewModel
 import dagger.hilt.android.lifecycle.HiltViewModel

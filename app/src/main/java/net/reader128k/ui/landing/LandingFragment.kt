@@ -1,4 +1,4 @@
-package net.reader128k.landing
+package net.reader128k.ui.landing
 
 import android.os.Bundle
 import android.view.LayoutInflater

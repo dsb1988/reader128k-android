@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/nav_landing"
-        android:name="net.reader128k.landing.LandingFragment"
+        android:name="net.reader128k.ui.landing.LandingFragment"
         android:label="Landing"
         tools:layout="@layout/fragment_landing">
         <action
@@ -17,7 +17,7 @@
 
     <fragment
         android:id="@+id/nav_login"
-        android:name="net.reader128k.login.LoginFragment"
+        android:name="net.reader128k.ui.login.LoginFragment"
         android:label="LoginFragment"
         tools:layout="@layout/fragment_login" />
 </navigation>

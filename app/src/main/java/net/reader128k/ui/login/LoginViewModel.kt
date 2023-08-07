@@ -1,4 +1,4 @@
-package net.reader128k.login
+package net.reader128k.ui.login
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
