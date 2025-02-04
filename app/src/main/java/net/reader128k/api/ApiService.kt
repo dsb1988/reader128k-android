@@ -18,7 +18,7 @@ interface ApiService {
     ): Response<Unit>
 
     companion object {
-        private const val BASE_URL = "http:////reader128k.net"
+        private const val BASE_URL = "https:////reader128k.net"
         fun create(): ApiService {
             val logger =
                 HttpLoggingInterceptor().apply { level = HttpLoggingInterceptor.Level.BODY }
